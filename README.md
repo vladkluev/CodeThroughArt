@@ -1,4 +1,4 @@
-# CodeThrouArt - learn how to code using fun and engaging exercises built around creation
+# CodeThroughArt - learn how to code using fun and engaging exercises built around creation
 
 NOTE: This is a work in progress 
 
