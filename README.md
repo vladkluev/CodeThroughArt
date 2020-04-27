@@ -31,5 +31,13 @@ In this lesson we will learn the concept of variables and how they are used with
 
 In this lesson we will start using the computer to make decisions which will affect the drawing we create.
 
-### Day 4: TBD, this is still a work in progress and will be updated as we hone the curriculum
+### Day 4: Functions
+
+In this lesson we will learn how to make our code cleaner and more reusable. We will do this by combining the projects from the last three assignments and making them more configurable.
+
+### Day 5: Loops
+
+In this lesson we will learn how to use loops by creating a function which paints gradients. 
+
+### Day 6: TBD, this is still a work in progress and will be updated as we hone the curriculum
 
